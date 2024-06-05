@@ -48,7 +48,7 @@ Here are some of the projects I've worked on:
 
 1. 🌟 [Scientific Calulator](https://github.com/awaisAhmed19/ScientificCalculator) - Im using Python to write a scientific calculator from scratch without using too many inbuilt function because I hate Myself😊.
 
-1. 🌟 [RetroMspaint]([https://github.com/awaisAhmed19/RetroMSpaint]) - Not the new shaggy Mspaint but the windows98 version of it this idea was inspired from Jspaint.app. Great webapp and im trying to clone it in my own style to learn about full stack webapp development
+1. 🌟 [RetroMspaint](https://github.com/awaisAhmed19/RetroMSpaint) - Not the new shaggy Mspaint but the windows98 version of it this idea was inspired from Jspaint.app. Great webapp and im trying to clone it in my own style to learn about full stack webapp development
 
 Feel free to explore my repositories for more projects and contributions.....Please.
 
