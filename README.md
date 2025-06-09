@@ -46,17 +46,48 @@ I'm enthusiastic about a wide range of topics, including:
 
 Here are some of the projects I've worked on:
 
-1. 🌟 [Scientific Calulator](https://github.com/awaisAhmed19/ScientificCalculator) - Im using Python to write a scientific calculator from scratch without using too many inbuilt function because I hate Myself😊.
 
-1. 🌟 [RetroMspaint](https://github.com/awaisAhmed19/RetroMSpaint) - Not the new shaggy Mspaint but the windows98 version of it this idea was inspired from Jspaint.app. Great webapp and im trying to clone it in my own style to learn about full stack webapp development
+## Popular repositories
+> *Loading... please wait... still loading... ok done.*
 
-Feel free to explore my repositories for more projects and contributions.....Please.
+---
 
+🌟 [**ScientificCalculator**](https://github.com/awaisAhmed19/ScientificCalculator)  
+I'm using Python to write a scientific calculator **from scratch** without using too many inbuilt functions because... I hate myself 😊.  
+Why use `math.sqrt()` when you can relive math class trauma, right?
+
+---
+
+🌟 [**RetroMSpaint**](https://github.com/awaisAhmed19/RetroMSpaint)  
+Not the new shaggy MS Paint but the **Windows 98** version —  
+Inspired by the legendary [jspaint.app](https://jspaint.app). I'm cloning it in my own messy but passionate way to learn about full-stack web app development (and maybe suffer a little).
+
+---
+
+🌟 [**DSA-journal**](https://github.com/awaisAhmed19/DSA-journal)  
+Just me writing Data Structures & Algorithms in C because Leetcode wants me to cry.  
+Low-level pain, high-level gain.
+
+---
+
+🌟 [**ScientificCalcWebapp**](https://github.com/awaisAhmed19/ScientificCalcWebapp)  
+Took that masochistic Python calculator and decided, “You know what would be worse? Turning it into a webapp.”  
+Using JavaScript because why not fry my brain twice.
+
+---
+
+🌟 [**Chess**](https://github.com/awaisAhmed19/Chess)  
+C-coded chess. Yeah, I'm *that* guy. No graphics, just pure terminal-based strategy and suffering.
+
+---
+
+Feel free to explore my repositories for more chaos, code, and crying.  
+⭐ Star them so GitHub thinks I'm cool (I promise I won't cry this time).  
 <!-- Let's Connect -->
 <h2>Let's Connect</h2>
 
 - 📫 You can reach out to me via [Email](mailto:awaisahmedoffi@gmail.com)
-- 📷 Check out my photos on [Instagram](https://www.instagram.com/awaisahmed20002/)
+- 📷 Check out my photos on [Instagram](https://www.instagram.com/ext4.you/)
 
 Let's code, learn, and innovate together, LESSS GOOOOO!!! 🚀
 
