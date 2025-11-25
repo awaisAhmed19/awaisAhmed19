@@ -28,16 +28,14 @@ I'm enthusiastic about a wide range of topics, including:
 
 <!-- GitHub Stats -->
 <h2>GitHub Stats</h2>
-
 <p align="center">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=awaisAhmed19&show_icons=true&theme=dark" alt="GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=awaisAhmed19&show_icons=true&theme=dark" alt="GitHub Stats">
 </p>
 
 <!-- Top Languages -->
 <h2>Top Languages</h2>
-
 <p align="center">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=awaisAhmed19&layout=compact&theme=dark" alt="Top Languages">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=awaisAhmed19&layout=compact&theme=dark" alt="Top Languages">
 </p>
 
 <!-- My Projects -->
