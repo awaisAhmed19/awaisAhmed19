@@ -4,14 +4,15 @@ Markdown<h2 align="center">Yo, I'm Awais Ahmed! <img src="https://media.giphy.co
 
 <p align="center">
   <em>
-    Professional <b>merge-conflict creator</b> by day<br>
-    Retro software archaeologist & pixel pervert by night<br>
-    Currently turning caffeine into buggy code at 3 AM
+    Perpetually reverse-engineering anything that looks interesting.<br>
+    I chase ideas, break them apart, rebuild them cleaner, then question why I started at all.<br>
+    If a system exists, I want to understand it — and if it doesn’t, I’ll probably make it.
   </em>
 </p>
 
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/awaisahmed19/">
+  <a href="www.linkedin.com/in/awais-ahmed-679876222">
     <img src="https://img.shields.io/badge/-awaisahmed19-0077B5?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://github.com/awaisAhmed19">
@@ -30,7 +31,7 @@ Markdown<h2 align="center">Yo, I'm Awais Ahmed! <img src="https://media.giphy.co
 
 <!-- Streak Stats -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=awaisAhmed19&theme=dracula&hide_border=true" />
+  <img src="[https://streak-stats.demolab.com?user=awaisAhmed19&theme=dracula&hide_border=true](https://streak-stats.demolab.com/?user=awaisAhmed19&theme=dracula&hide_border=true)" />
 </p>
 
 ### A bit more about this chaos machine...
