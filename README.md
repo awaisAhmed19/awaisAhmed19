@@ -1,6 +1,4 @@
-Markdown<h2 align="center">Yo, I'm Awais Ahmed! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h2>
-
-<img align="right" src="https://media.giphy.com/media/M9gbBd9oVjXxSaxHw3/giphy.gif" width="280">
+<h2 align="center">Yo, I'm Awais Ahmed! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h2>
 
 <p align="center">
   <em>
@@ -10,15 +8,18 @@ Markdown<h2 align="center">Yo, I'm Awais Ahmed! <img src="https://media.giphy.co
   </em>
 </p>
 
-
+<!-- Social -->
 <p align="center">
-  <a href="www.linkedin.com/in/awais-ahmed-679876222">
-    <img src="https://img.shields.io/badge/-awaisahmed19-0077B5?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/awais-ahmed-679876222">
+    <img src="https://img.shields.io/badge/-Awais%20Ahmed-0077B5?style=flat-square&logo=Linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/awaisAhmed19">
-    <img src="https://img.shields.io/github/followers/awaisAhmed19?label=Follow&style=social" alt="GitHub Followers">
+    <img src="https://img.shields.io/github/followers/awaisAhmed19?label=Follow&style=social" />
   </a>
 </p>
+
+---
+
 <!-- GitHub Stats -->
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=awaisAhmed19&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" />
@@ -31,8 +32,10 @@ Markdown<h2 align="center">Yo, I'm Awais Ahmed! <img src="https://media.giphy.co
 
 <!-- Streak Stats -->
 <p align="center">
-  <img src="[https://streak-stats.demolab.com?user=awaisAhmed19&theme=dracula&hide_border=true](https://streak-stats.demolab.com/?user=awaisAhmed19&theme=dracula&hide_border=true)" />
+  <img src="https://streak-stats.demolab.com?user=awaisAhmed19&theme=dracula&hide_border=true" />
 </p>
+
+---
 
 ### A bit more about this chaos machine...
 
@@ -52,7 +55,7 @@ struct Awais {
     std::string currentlyLearning = "how to touch grass";
     std::vector<std::string> tools = {
         "React", "Vite", "Raylib", "Canvas API",
-        "Neovim (because vim is life)", "Git (my eternal enemy)"
+        "Neovim", "Git (my eternal enemy)"
     };
     std::vector<std::string> hobbies = {
         "reviving dead Windows 98 apps",
@@ -60,23 +63,20 @@ struct Awais {
         "terminal chess in pure C",
         "making MS Paint clones that run at 12 FPS"
     };
-    std::string funFact = "I implemented sin/cos from scratch using Taylor series... for fun";
+    std::string funFact = "I implemented sin/cos using Taylor series... willingly";
     std::string currentObsession = "perfectly recreating Windows XP's MS Paint in React";
-    std::string challenge = "surviving LeetCode without switching to JavaScript (failing)";
+    std::string challenge = "surviving LeetCode without switching to JS (failing)";
 };
 
 int main() {
     Awais me;
     std::cout << "Segmentation fault (core dumped) in real life: true\n";
     std::cout << "Send help (or retro game ideas)\n";
-    return 0; // never reached
+    return 0; 
 }
 ```
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Hit me up — I basically live here anyway
-</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>  
-
-  
-
-  Warning: I will make you play my broken retro games
-
-```
+<p align="center"> 
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+  <br> <em><b>Hit me up — I basically live on the internet anyway.</b><br> 
+    Warning: I might make you test my broken retro apps.</em> 
+</p>
