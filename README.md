@@ -27,24 +27,20 @@ I'm enthusiastic about a wide range of topics, including:
 - 📚 painting  
 
 <!-- GitHub Stats -->
-<h2 align="center">📊 GitHub Stats</h2>
-
+<!-- GitHub Stats (WORKING 2025) -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=awaisAhmed19&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  <img src="https://github-readme-stats.vercel.app/api?username=awaisAhmed19&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="Awais's GitHub Stats" />
 </p>
 
+<!-- Top Languages (WORKING) -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=awaisAhmed19&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=awaisAhmed19&layout=compact&theme=dracula&hide_border=true&hide=html,css,tex&langs_count=8" alt="Top Languages" />
 </p>
 
+<!-- Streak Stats (WORKING) -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=awaisAhmed19&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.deno.dev/?user=awaisAhmed19&theme=dracula&hide_border=true" alt="GitHub Streak" />
 </p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=awaisAhmed19&theme=tokyonight&no-frame=true&margin-w=15&column=-1" />
-</p>
-
 <!-- Top Languages -->
 <h2>Top Languages</h2>
 <p align="center">
