@@ -27,9 +27,22 @@ I'm enthusiastic about a wide range of topics, including:
 - 📚 painting  
 
 <!-- GitHub Stats -->
-<h2>GitHub Stats</h2>
+<h2 align="center">📊 GitHub Stats</h2>
+
 <p align="center">
-    <img src="[![GitHub stats](https://github-readme-stats.vercel.app/api?username=awaisAhmed19)](https://github.com/awaisAhmed19/github-readme-stats)" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=awaisAhmed19&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=awaisAhmed19&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=awaisAhmed19&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=awaisAhmed19&theme=tokyonight&no-frame=true&margin-w=15&column=-1" />
 </p>
 
 <!-- Top Languages -->
