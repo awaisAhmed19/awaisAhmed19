@@ -29,7 +29,7 @@ I'm enthusiastic about a wide range of topics, including:
 <!-- GitHub Stats -->
 <h2>GitHub Stats</h2>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=awaisAhmed19&show_icons=true&theme=dark" alt="GitHub Stats">
+    <img src="[![GitHub stats](https://github-readme-stats.vercel.app/api?username=awaisAhmed19)](https://github.com/awaisAhmed19/github-readme-stats)" alt="GitHub Stats">
 </p>
 
 <!-- Top Languages -->
