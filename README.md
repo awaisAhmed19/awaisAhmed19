@@ -50,12 +50,12 @@ struct Awais {
     std::string pronouns = "he/him";
     std::vector<std::string> code = {
         "JavaScript", "Python", "C/C++", "TypeScript",
-        "HTML/CSS", "Rust (when I'm feeling suicidal)"
+        "HTML/CSS", "Rust (when I'm feeling brave)"
     };
     std::string currentlyLearning = "how to touch grass";
     std::vector<std::string> tools = {
-        "React", "Vite", "Raylib", "Canvas API",
-        "Neovim", "Git (my eternal enemy)"
+        "React", "Raylib", "Canvas API","OpenGL","CUDA",
+        "Neovim", "Git (my eternal enemy/friend)"
     };
     std::vector<std::string> hobbies = {
         "reviving dead Windows 98 apps",
