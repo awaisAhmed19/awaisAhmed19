@@ -28,24 +28,21 @@ I'm enthusiastic about a wide range of topics, including:
 
 <!-- GitHub Stats -->
 <!-- GitHub Stats (WORKING 2025) -->
+<!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=awaisAhmed19&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="Awais's GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=awaisahmed19&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" />
 </p>
 
-<!-- Top Languages (WORKING) -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=awaisAhmed19&layout=compact&theme=dracula&hide_border=true&hide=html,css,tex&langs_count=8" alt="Top Languages" />
-</p>
-
-<!-- Streak Stats (WORKING) -->
-<p align="center">
-  <img src="https://streak-stats.deno.dev/?user=awaisAhmed19&theme=dracula&hide_border=true" alt="GitHub Streak" />
-</p>
 <!-- Top Languages -->
-<h2>Top Languages</h2>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=awaisAhmed19&layout=compact&theme=dark" alt="Top Languages">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=awaisahmed19&layout=compact&theme=dracula&hide_border=true" />
 </p>
+
+<!-- Streak Stats -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=awaisahmed19&theme=dracula&hide_border=true" />
+</p>
+
 
 <!-- My Projects -->
 <h2>My Projects</h2>
