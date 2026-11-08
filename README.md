@@ -54,9 +54,9 @@ $ cat /etc/interests
 | Project | Description | Stack |
 |---|---|---|
 | [libten](https://github.com/awaisAhmed19/libten) | Standalone tensor library with CPU and optional CUDA backends | C11, CUDA |
-| TinyTTS | Neural network-based text-to-speech experimentation | C++, CUDA |
-| LXPaint | CPU-rendered 2D painting application | C++, SDL3, ImGui |
-| RetroMSPaint | Recreating the classic MS Paint experience | React, MERN |
+| [TinyTTS](https://github.com/awaisAhmed19/Tiny_TTS) | Neural network-based text-to-speech experimentation | C++, CUDA |
+| [LXPaint](https://github.com/awaisAhmed19/LXPaint) | CPU-rendered 2D painting application | C++, SDL3, ImGui |
+| [RetroMSPaint](https://github.com/awaisAhmed19/RetroMSPaint) | Recreating the classic MS Paint experience | React, MERN |
 
 ---
 
@@ -79,37 +79,6 @@ Creative
   Krita · Aseprite · Blender
 ```
 
----
-
-## `~/about`
-
-```cpp
-#include <iostream>
-
-struct Awais {
-    const char* pronouns = "he/him";
-    const char* philosophy =
-        "Understand it before abstracting it.";
-
-    const char* current_focus =
-        "Building things from first principles.";
-
-    const char* weakness =
-        "Starting another project before finishing one.";
-
-    const char* fun_fact =
-        "Implemented sin/cos using Taylor series.";
-};
-
-int main() {
-    Awais me;
-
-    std::cout << "Segmentation fault "
-                 "(core dumped) in real life.\n";
-
-    return 0;
-}
-```
 
 ---
 
