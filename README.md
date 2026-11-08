@@ -2,12 +2,12 @@
 
 <table>
 <tr>
-<td width="45%" align="center" valign="middle">
+<td width="35%" align="center" valign="middle">
 
 <img src="pfp-ascii.svg" width="100%" alt="Awais — retro coloured ASCII portrait"/>
 
 </td>
-<td align="center" valign="middle">
+<td valign="middle">
 
 ```text
 awais@github
