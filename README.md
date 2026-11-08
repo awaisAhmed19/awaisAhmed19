@@ -2,7 +2,7 @@
 
 <table>
 <tr>
-<td width="38%" align="center" valign="middle">
+<td width="90%" align="center" valign="middle">
 
 <img src="pfp-ascii.svg" width="100%" alt="Awais — retro coloured ASCII portrait"/>
 
