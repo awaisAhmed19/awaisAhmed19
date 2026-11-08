@@ -4,7 +4,7 @@
 <tr>
 <td width="38%" align="center" valign="middle">
 
-<img src="assets/pfp-ascii.svg" width="100%" alt="Awais — retro coloured ASCII portrait"/>
+<img src="pfp-ascii.svg" width="100%" alt="Awais — retro coloured ASCII portrait"/>
 
 </td>
 <td valign="middle">
